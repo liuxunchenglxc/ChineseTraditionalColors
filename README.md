@@ -3,6 +3,7 @@
 
 ## Setup
 The python version used by author is 3.11.
+
 `pip install matplotlib`
 
 ## Run
@@ -20,8 +21,11 @@ Plot each color of Chinese traditional colors in the HLS/HSL color space, in whi
 
 ### Setup
 The python version used by author is 3.11.
-`pip install PySide6`
-`pip install mayavi`
+
+```
+pip install PySide6
+pip install mayavi
+```
 
 ### Run
 `python plot3d.py`
